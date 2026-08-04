@@ -1,0 +1,27 @@
+{
+  "password": "8888",
+  "mode": "weight",
+  "maxDraws": 0,
+  "prizes": [
+    {
+      "name": "一等奖",
+      "weight": 1
+    },
+    {
+      "name": "二等奖",
+      "weight": 3
+    },
+    {
+      "name": "三等奖",
+      "weight": 6
+    },
+    {
+      "name": "完赛奖",
+      "weight": 8
+    },
+    {
+      "name": "谢谢参与",
+      "weight": 10
+    }
+  ]
+}
